@@ -1,6 +1,5 @@
 # AI-Powered-Budget-Tracker
 
-<<<<<<< HEAD
 An AI powered Budget Tracker app for tracking budget and expenses.
 
 # Setup
@@ -34,6 +33,3 @@ Show all branches (remote and local): `git branch -a`
 Create and checkout branch from a remote branch: `git checkout -b local_branchname upstream/remote_branchname`
 
 Compare: `git diff origin/master..master`
-=======
-**An AI powered Budget Tracker app for tracking budget and expenses.**
->>>>>>> upstream/master
