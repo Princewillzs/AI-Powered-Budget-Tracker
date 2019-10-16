@@ -1,6 +1,50 @@
 # AI-Powered-Budget-Tracker
 
-An AI powered Budget Tracker app for tracking budget and expenses.
+**An AI powered Budget Tracker app for tracking budget and expenses.**
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+You need to create an API KEY
+
+### Installing
+
+_Clone the Repository and run_
+
+> npm install
+
+> npm start
+
+### Deployment
+
+_To deploy simply run_
+
+> npm run build
+
+### Built With
+
+1. React JS
+2. React Router
+3. Redux
+4. Redux Thunk
+5. Styled Components
+6. Reselect
+
+---
+
+### Contributing
+
+`Please feel free to send pull request if you want to contribute!`
+
+Authors
+
+- _Olawale Afuye_
+- _Prince Wiiliams_
+- _Ijeoma Onuaju_
+- _stella Kadiri_
 
 # Setup
 
@@ -8,7 +52,7 @@ For Contributors, Fork the Repo, Clone and push to forked Repo.
 
 Navigate to the project folder and install dependencies `npm install`
 
-# Pull changes from upstream before EDITING or PUSHING
+### Pull changes from upstream before EDITING or PUSHING
 
 Show remote: `git remote`
 
