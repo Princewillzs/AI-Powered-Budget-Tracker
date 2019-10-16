@@ -43,7 +43,7 @@ Authors
 
 - _Olawale Afuye_
 - _Prince Wiiliams_
-- _Her Excellency_
+- _Ijeoma Onuaju_
 - _stella Kadiri_
 
 # Setup
@@ -52,7 +52,7 @@ For Contributors, Fork the Repo, Clone and push to forked Repo.
 
 Navigate to the project folder and install dependencies `npm install`
 
-# Pull changes from upstream before EDITING or PUSHING
+### Pull changes from upstream before EDITING or PUSHING
 
 Show remote: `git remote`
 
