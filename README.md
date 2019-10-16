@@ -8,7 +8,7 @@ For Contributors, Fork the Repo, Clone and push to forked Repo.
 
 Navigate to the project folder and install dependencies `npm install`
 
-# PULL CHANGES BEFORE PUSHING
+# Pull changes from upstream before EDITING or PUSHING
 
 Show remote: `git remote`
 
